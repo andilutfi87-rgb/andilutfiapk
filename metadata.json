@@ -1,0 +1,6 @@
+{
+  "name": "Sensus Ekonomi 2026 Pro",
+  "description": "Dashboard sensus ekonomi terpadu yang terintegrasi dengan Google Drive, Google Sheets, Google Maps Grounding, dan kecerdasan AI Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
